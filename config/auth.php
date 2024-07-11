@@ -34,7 +34,7 @@ return [
     | Supported: "session"
     |
     */
-
+//its newwwwwwwwwwww auth ok ali?? ok taha. i be done
     'guards' => [
         'web' => [
             'driver' => 'session',
