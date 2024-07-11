@@ -16,9 +16,8 @@ return [
     'defaults' => [
         'guard' => 'web',
         'passwords' => 'users',
-
     ],
-//comented drop
+//kjkjkjk
     /*
     |--------------------------------------------------------------------------
     | Authentication Guards
@@ -35,7 +34,7 @@ return [
     | Supported: "session"
     |
     */
-//its newwwwwwwwwwww auth ok ali??
+//its newwwwwwwwwwww auth ok ali?? ok taha. i be done
     'guards' => [
         'web' => [
             'driver' => 'session',
