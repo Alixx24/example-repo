@@ -16,8 +16,9 @@ return [
     'defaults' => [
         'guard' => 'web',
         'passwords' => 'users',
-    ],
 
+    ],
+//comented drop
     /*
     |--------------------------------------------------------------------------
     | Authentication Guards
