@@ -10,7 +10,7 @@ class QuoteRepo implements IQuoteRepo {
             new Quote([
                 'quote' => 'if it were easy, everyone would do it',
             ]),
-        ];
+        ];d
         return $quotes;
     }
 }
